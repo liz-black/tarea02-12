@@ -1,0 +1,27 @@
+/* Fuente para todo el sitio */
+body {
+    font-family: Verdana;
+}
+
+/* Titulares */
+h1 {
+    color: #333;
+    font-size: 20px;
+}
+
+h2 {
+    color: #666;
+    font-size: 16px;
+}
+
+/* Párrafos y listas */
+p, li {
+    color: #000;
+    font-size: 12px;
+}
+
+/* ESTILOS DE LOS ENLACES */
+a {
+    color: blue;
+    font-size: 12px;
+}
